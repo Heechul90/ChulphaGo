@@ -1,2 +1,2 @@
 # ChulphaGo
-my django project for board, mps
+my django project for board, mps!!
