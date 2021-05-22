@@ -25,6 +25,9 @@
         </tr>
         {% endif %}
     </table>
+    <!-- pagination start -->
+    {% include "cmm/pagination.html" %}
+    <!-- pagination end -->
     <a href="{% url 'board:question_create' %}" class="btn btn-primary">질문 등록하기</a>
 </div>
 {% endblock %}
