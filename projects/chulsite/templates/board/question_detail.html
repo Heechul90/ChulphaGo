@@ -24,6 +24,8 @@
             </div>
         </div>
     </div>
+
+
     {% endfor %}
     <form action="{% url 'board:answer_create' question.id %}" method="post" class="my-3">
         {% csrf_token %}
