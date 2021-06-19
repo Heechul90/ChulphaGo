@@ -1,4 +1,4 @@
 # ChulphaGo
 my django project for board, mps!!!
 
-# Deep Learning
+# Deep Learning with trnsorflow
